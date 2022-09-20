@@ -5,7 +5,6 @@ ERP implementation portfolio, for the discipline ERP at Satakunta University of 
 More information on how to navigate throught the platform, check this [video](# "video under creation ;)")
 
 # 1 Individual work
-|--|--|
 | [Link to Moodle assigment #1](https://moodle3x.samk.fi/mod/assign/view.php?id=563375&forceview=1) | [Full assigment text ](assigments/assigment1.md) |
 |--|--|
 
