@@ -2,63 +2,22 @@
 
 
 ERP implementation portfolio, for the discipline ERP at Satakunta University of Applied Science. Using [Git](https://git-scm.com/) as a tool for project management. The concept is to group all information in a *folder* storage model. Also, in order to share online the portfolio, I'm using [code.33co.de](https://code.33co.de/ehofmann/ERP-samk/) that is my [self-hosted](https://www.computerhope.com/jargon/s/self-hosting.htm) instance of [Gitea](https://gitea.io/en-us/).
-More information on how to navigate throught the platform, check this [video](videos/platformReduced.mp4)
+More information on how to navigate through the platform, check this [video](videos/platformReduced.mp4)
 
-
-> BACKUP: In case the [master](https://code.33co.de/ehofmann/ERP-samk) repository is not available, a mirror repository can be used as [backup](https://github.com/githubedu/ERP-samk), only files and text, project and issues are not available. 
-
-
-# [01 ERP Project](https://code.33co.de/ehofmann/ERP-samk/projects/1)
-
-## Definitions
-The project work will be perfomed *in solo* mode. The group selected in moodle is **ERP 40**
-
-## Company
-The company selected to implement the ERP is called Kartano Tech Oy, is based in Espoo Finland. Has a team of 12 members. The company solve a problem of SME that don't have information about their productivity, by adding IoT sensors to collect manufacturing data and provide actionable information to allow leaders take assertive decisions.    
-
->Company deck pitch can be found [here](kartano/deckpitch-Kartano-v7-forERP.pdf)
-
-
-> DISCLAIMER: The company Kartano Tech Oy is a real company I founded in 2017 and is still registered in the Registration Office. However, since 2021 the company board has decided pause activities. Nevertheless, due to my knowledge on all the activities of the company, the ERP implementation will be designed having the company as reference.
-
-## [Project](https://code.33co.de/ehofmann/ERP-samk/projects)
-All information generated during the project will be archieve in [this repository](https://code.33co.de/ehofmann/ERP-samk/), this file contains the **Master** information with links to support files, videos or any other type of resources.    
-The [Project management](https://code.33co.de/ehofmann/ERP-samk/projects) is executed by creating [issues](https://code.33co.de/ehofmann/ERP-samk/issues) and organize and visualize in [kanban boards](https://code.33co.de/ehofmann/ERP-samk/projects/1)
-
-### [Milestones](https://code.33co.de/ehofmann/ERP-samk/milestones)
-Each task with deadline is considered as a **Milestone**, on which is described what is expected and each issue is linked to the milestone/individual work. 
-
-# 02 Process
-
- ![Kartano Tech Oy Business process](kartano/BusinessProcess.png)
- Kartano Tech Oy is organized in seven departments, aiming to provide the best service to each customer. The department organization is arranged in a way the information from customer reach the first departments in charge of initialize the manufacturing process and goes until the product is delivered to the customer.
- ## Sales department
- All the Customer Relationship Management, is performed by the Sales Department. This includes: Marketing, Market research, Sales forecast and finally the transaction itself. Sales provide a forecast to purchase department in order to anticipate quotations or even the purchase in case the company management decide to take the risks and purchase raw material before receive an order. When a purchase order is received, a **Work Order** is created and assigned to Manufacturing.
- ## Purchase department
-Control the raw material inventory, relationship with suppliers and place the purchase orders
-
-## Logistics
-Manage the warehouse, receive goods and take care of packaging and shipment of final products to customers.
-
-## Customer support
-Take care of the customer experience, by organizing installations, trainings and any other customer need during the product life-cycle.
-
-## Manufacturing
-The production process is divided in three main workshops responsible for the **core** manufacturing of the company products. The PCB workshop, produce the *printed circuit board*. The Metal workshop, produce the device case and internal parts. Both departments supply the produced parts back to warehouse on which the parts become a sub-component. The Assembly workshop, work based on work orders, when all materials are available. When the WO is completed, the product is forward to the Logistics department.
-
-## Support function 
-Company general management and administrative tasks are performed by support functions that report directly to management, this include Finance, HR, Facilities & Maintenance.
-
-## Research & Development
-The most important asset of the company is the intellectual property of the product, that include the software. As well the capability to develop further the products. The R&D department is responsible for product development as well is integrate in the manufacturing process to assure quality and collect feedback for improvements. Another source of information for R&D is sales and customer service.
+## Table of contents
+- [Assignment 01: Project](01ERPProject.md)
+- [Assignment 02: Process](02Process.md)
 
 
 # Other information
 
 |  Link  | Description |
 |--|--|
+| [ERP Implementation](https://erp.33co.de) | Sandbox ERP implementation using Axelor ERP **{user and password are on mooddle}** |
+| [Project management](https://code.33co.de/ehofmann/ERP-samk/projects/1) | Link to tasks and kanban board related to the project management |
 | [Video demonstrating Gitea](videos/platformReduced.mp4) | This video demonstrate how the ERP project has been setup in Gitea and how it will be used to manage the ERP implementation |
 | [Video demonstrating Git](videos/gitReduced.mp4) | In this video Eduardo demonstrate how the changes in files or in text are uploaded to Gitea and how to see the changes on each commit |
 | [Link to Moodle assigment #1](https://moodle3x.samk.fi/mod/assign/view.php?id=563375&forceview=1) | Complete Moodle assigment |
 | [Full assigment text ](assigments/assigment1.md) | Complete Moodle assigment mirror in Gitea |
 
+> BACKUP: In case the [master](https://code.33co.de/ehofmann/ERP-samk) repository is not available, a mirror repository can be used as [backup](https://github.com/githubedu/ERP-samk), only files and text, project and issues are not available. 
