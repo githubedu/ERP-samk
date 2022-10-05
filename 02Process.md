@@ -25,6 +25,10 @@ The most important asset of the company is the intellectual property of the prod
 
 ## Forecast and Order entry
 The existing process of collecting information about customer *future plans*, possible leads, opportunities and converting into a sales forecast to allow purchase negotiate in advance or even manufacturing plan resources. It's completely informal and without traceability of updates. When sales department achieve certain confiadenciality about a new contract, they send a *Heads up* email, to inform internally. A customer can place a purchase order (PO) at any moment, most of the cases is through an email.    
-Sales process the PO adding into excel file to control and follow up invoice process, also a *work order* (WO) is created, printed and delivered to the Manufacturing department. Which will create the *Bill of Materials* (BOM) and a person will walk to the Warehouse and pickup the material and inform the warehouse team which materials and quantities are beign consumed.
+Sales process the PO adding into excel file to control and follow up invoice process, also a *work order* (WO) is created, printed and delivered to the Manufacturing department. Which will create the *Bill of Materials* (BOM) and a person will walk to the Warehouse to pickup the material and inform the warehouse team which materials and quantities are beign consumed.
+
+## Functional Requirement Specification
+The existing process is completely manual, traceability relies on the email historic data. Relation between manufacturing and warehouse is prone to failure, resulting on incorrect information about stock level, that can cause material shortage, causing production stop and late deliveries.    
+The *nice to have* feature in an ERP system is a **CRM** module to support Sales in getting sales deals close andmost important, provide reliable information to purchase department. The next module that is mandatory is the **Manufacturing** on which all the operation will be controlled. by having a manufactuing module, others modules are also needed to compliment the functionality of the ERP system, as: Stock and Sales.
 
 [back HOME](https://code.33co.de/ehofmann/ERP-samk)
