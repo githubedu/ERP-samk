@@ -28,7 +28,11 @@ The [Project management](https://code.33co.de/ehofmann/ERP-samk/projects) is exe
 ### [Milestones](https://code.33co.de/ehofmann/ERP-samk/milestones)
 Each task with deadline is considered as a **Milestone**, on which is described what is expected and each issue is linked to the milestone/individual work. 
 
-# Others informations
+# 02 Process
+
+ ![Kartano Tech Oy Business process](kartano/BusinessProcess.png)
+
+# Other informations
 
 |  Link  | Description |
 |--|--|
