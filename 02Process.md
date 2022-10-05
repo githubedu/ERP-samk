@@ -23,6 +23,8 @@ Company general management and administrative tasks are performed by support fun
 ### Research & Development
 The most important asset of the company is the intellectual property of the product, that include the software. As well the capability to develop further the products. The R&D department is responsible for product development as well is integrate in the manufacturing process to assure quality and collect feedback for improvements. Another source of information for R&D is sales and customer service.
 
-## 
+## Forecast and Order entry
+The existing process of collecting information about customer *future plans*, possible leads, opportunities and converting into a sales forecast to allow purchase negotiate in advance or even manufacturing plan resources. It's completely informal and without traceability of updates. When sales department achieve certain confiadenciality about a new contract, they send a *Heads up* email, to inform internally. A customer can place a purchase order (PO) at any moment, most of the cases is through an email.    
+Sales process the PO adding into excel file to control and follow up invoice process, also a *work order* (WO) is created, printed and delivered to the Manufacturing department. Which will create the *Bill of Materials* (BOM) and a person will walk to the Warehouse and pickup the material and inform the warehouse team which materials and quantities are beign consumed.
 
 [back HOME](https://code.33co.de/ehofmann/ERP-samk)

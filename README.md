@@ -9,7 +9,7 @@ More information on how to navigate through the platform, check this [video](vid
 - [Assignment 02: Process](02Process.md)
 
 
-# Other information
+#### Other information
 
 |  Link  | Description |
 |--|--|
