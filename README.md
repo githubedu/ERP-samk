@@ -15,6 +15,7 @@ More information on how to navigate through the platform, check this [video](vid
 
 |  Link  | Description |
 |--|--|
+| [Update after task 2](videos/updateAfterTask02.mp4) | This video present the changes after complete Task 02 and the ERP for testing purpose |
 |<a href="https://erp.33co.de" target="_blank">ERP Sandbox Implementation</a> | Sandbox ERP implementation using Axelor ERP **{user and password are on moodle}** |
 | [Project management](https://code.33co.de/ehofmann/ERP-samk/projects/1) | Link to tasks and kanban board related to the project management |
 | [Video demonstrating Gitea](videos/platformReduced.mp4) | This video demonstrate how the ERP project has been setup in Gitea and how it will be used to manage the ERP implementation |
