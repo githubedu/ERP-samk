@@ -16,17 +16,14 @@ The business model consider a exponential grow in the first three years. To allo
 
 ### CSF
 The **Critical Success Factors** for Kartano Tech Oy are a *Effective customer on-boarding*, this means that people are aware of the company product and are subscribing to the service. The next factor is the *Customer conversion*, the customer that just subscribe need to became a paid subscriber. In a nutshell, company need new people and company need that the new people became a subscriber.
-<br> 
+<br clear="left"/>
+
 ### KPI
-<br> 
 In order to monitor that the company is on track with the plan and actions, the main KPIs, focus on what matter most at the current stage of the company: **Customers, Customer conversion and Production**    
-<br> 
 ### ERP project KPI    
-<br> 
 In order to follow up the ERP project implementation the following KPIs shall demonstrate the status of the project:    
 - Training    
 - Data conversion    
 - Manual order vs ERP orders    
 - Weekly audit    
   
-<br clear="left"/>
