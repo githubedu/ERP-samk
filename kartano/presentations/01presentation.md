@@ -20,14 +20,14 @@ The **Critical Success Factors** for Kartano Tech Oy are a *Effective customer o
 <br> 
 ### KPI
 <br> 
-In order to monitor that the company is on track with the plan and actions, the main KPIs, focus on what matter most at the current stage of the company: **Customers, Customer conversion and Production**
+In order to monitor that the company is on track with the plan and actions, the main KPIs, focus on what matter most at the current stage of the company: **Customers, Customer conversion and Production**    
 <br> 
-### ERP project KPI
+### ERP project KPI    
 <br> 
-In order to follow up the ERP project implementation the following KPIs shall demonstrate the status of the project:
-- Training
-- Data conversion
-- Manual order vs ERP orders
-- Weekly audit
-
+In order to follow up the ERP project implementation the following KPIs shall demonstrate the status of the project:    
+- Training    
+- Data conversion    
+- Manual order vs ERP orders    
+- Weekly audit    
+  
 <br clear="left"/>
