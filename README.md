@@ -7,6 +7,7 @@ More information on how to navigate through the platform, check this [video](vid
 ## Table of contents
 - [Assignment 01: Project](01ERPProject.md)
 - [Assignment 02: Process](02Process.md)
+    * [Management Presentation](kartano/presentations/01presentation.md)
 
 
 #### Other information
