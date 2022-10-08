@@ -1,11 +1,11 @@
 # Management presentation
 > 09. October 2022    
 > By: Eduardo Luis Hofmann    
-> [Presentation Slides](01presentation.md)
+> [Presentation Slides](01presentation.pdf)
 
 ## Presentation
 
-[<img src="https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4">](Presentation)
+[<img src="https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4">](https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4 "Presentation")
 
 
 
