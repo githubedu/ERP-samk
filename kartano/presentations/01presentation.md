@@ -5,7 +5,7 @@
 
 ## Presentation
 
-[<img src="https://code.33co.de/ehofmann/ERP-samk/src/branch/master/videos/reduce-presentation.mp4">](Presentation)
+[<img src="/videos/reduce-presentation.mp4">](Presentation)
 
 
 
