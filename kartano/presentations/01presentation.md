@@ -7,7 +7,15 @@
 
 [<img src="https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4">](https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4 "Presentation")
 
+<video controls width="900">
 
+    <source src=https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4"
+            type="video/mp4">
+
+    Download the
+    <a href=https://code.33co.de/ehofmann/ERP-samk/raw/commit/6da621262b56c0e57367a38850bf8ec62b71ce98/videos/reduce-presentation.mp4">MP4</a>
+    video.
+</video>
 
 ## Keynotes
 <img src="animation.gif" align="right" width="400px"/>
