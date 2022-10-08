@@ -13,7 +13,8 @@ More information on how to navigate through the platform, check this [video](vid
 
 |  Link  | Description |
 |--|--|
-| [ERP Implementation](https://erp.33co.de) | Sandbox ERP implementation using Axelor ERP **{user and password are on mooddle}** |
+|<a href="https://erp.33co.de" target="_blank">ERP Sandbox Implementation</a> | Sandbox ERP implementation using Axelor ERP **{user and password are on moodle}** |
+| [ERP Implementation](https://erp.33co.de) | Sandbox ERP implementation using Axelor ERP **{user and password are on moddle}** |
 | [Project management](https://code.33co.de/ehofmann/ERP-samk/projects/1) | Link to tasks and kanban board related to the project management |
 | [Video demonstrating Gitea](videos/platformReduced.mp4) | This video demonstrate how the ERP project has been setup in Gitea and how it will be used to manage the ERP implementation |
 | [Video demonstrating Git](videos/gitReduced.mp4) | In this video Eduardo demonstrate how the changes in files or in text are uploaded to Gitea and how to see the changes on each commit |

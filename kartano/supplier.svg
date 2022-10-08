@@ -193,7 +193,10 @@
        height="750"
        width="400"
        id="rect2996"
-       style="fill:#a8aaa9;fill-opacity:1;stroke:none" />
+       style="fill:#a8aaa9;fill-opacity:1;stroke:none"
+       inkscape:export-filename="supplier.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
     <g
        id="g3779">
       <rect
@@ -1762,17 +1765,17 @@
        xml:space="preserve"
        transform="matrix(1.1560923,0,0,1.3497161,414.19102,-106.98813)"
        id="text866"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect868);fill:#ffff00;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect868);display:inline;fill:#ffff00;fill-opacity:1;stroke:none"><tspan
          x="91.158203"
          y="703.15923"
-         id="tspan1321">eletronics</tspan></text>
+         id="tspan1634">eletronics</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(1.1560923,0,0,1.3497161,412.52993,-109.37142)"
        id="text866-6"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect868-3);fill:#000080;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect868-3);display:inline;fill:#000080;fill-opacity:1;stroke:none"><tspan
          x="91.158203"
          y="703.15923"
-         id="tspan1323">eletronics</tspan></text>
+         id="tspan1636">eletronics</tspan></text>
   </g>
 </svg>
