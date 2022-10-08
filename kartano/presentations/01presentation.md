@@ -10,7 +10,7 @@
 
 ## Keynotes
 <img src="animation.gif" align="right" width="400px"/>
-Kartano Tech Oy revenue model is based on subscription model, *Freemium* subscription is part of the offer with limited features.   
+Kartano Tech Oy revenue model is based on subscription model, Freemium subscription is part of the offer with limited features.   
 The business model consider a exponential grow in the first three years. To allow breakeven in the third year.
 <br> 
 
@@ -19,7 +19,10 @@ The **Critical Success Factors** for Kartano Tech Oy are a *Effective customer o
 <br clear="left"/>
 
 ### KPI
-In order to monitor that the company is on track with the plan and actions, the main KPIs, focus on what matter most at the current stage of the company: **Customers, Customer conversion and Production**    
+In order to monitor that the company is on track with the plan and actions, the main KPIs, focus on what matter most at the current stage of the company: 
+- Customers
+- Customer conversion 
+- Production    
 ### ERP project KPI    
 In order to follow up the ERP project implementation the following KPIs shall demonstrate the status of the project:    
 - Training    
