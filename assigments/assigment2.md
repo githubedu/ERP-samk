@@ -36,3 +36,7 @@ The report is deficient and/or work-quantitatively clearly undersized, but there
 0 fail
 
 Some/all assignments are missing from project portfolio. 
+
+[local copy from moddle assigment](https://moodle3x.samk.fi/mod/assign/view.php?id=563380)
+
+[back HOME](https://code.33co.de/ehofmann/ERP-samk)
