@@ -34,6 +34,7 @@ There is no way we can achieve a minimalist implementation of an ERP system with
 <img src="assigments/img/03-moduleOverlap.png" align="right" width="350px"/>
 Adding a **CRM** module will benefit the data in the system and the sales team work. For these two separate modules the common information is the *Customers*, on each module there is some specific data, but the common information is shared between both modules. *Product* is another information item of an ERP that is used across several modules. In the **Sales** module the most important information is the cost price, yet on **Stock Management** the inventory and location are a key information. 
 
+<br><br>
 ## Selection
 <img src="assigments/img/03-ModuleSelection.png" align="left" width="350px"/>
 
