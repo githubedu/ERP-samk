@@ -17,6 +17,7 @@ More information on how to navigate through the platform, check this [video](vid
 
 |  Link  | Description |
 |--|--|
+| [Update after task 3](videos/updateAfterTask03.mp4) | This video present the changes after complete Task 03, quick comparison of two ERP systems |
 | [Update after task 2](videos/updateAfterTask02.mp4) | This video present the changes after complete Task 02 and the ERP for testing purpose |
 |<a href="https://erp.33co.de" target="_blank">ERP Sandbox Implementation</a> | Sandbox ERP implementation using Axelor ERP **{user and password are on moodle}** |
 | [Project management](https://code.33co.de/ehofmann/ERP-samk/projects/1) | Link to tasks and kanban board related to the project management |

@@ -7,8 +7,8 @@ Axelor was selected for testing purpose and an instance has been installed in a 
 
 ## Comparison methodology
 For the purpose of the [assigment 3.4](assigments/assigment3.md)
-> 4. Find at least two ERP suppliers', present their commercial module names and find similarities and differences between these two suppliers' modules.
-I will compare based on the user interface, matching similarities and differences. Assuming that Axelor is the reference ERP system.
+> 4. Find at least two ERP suppliers', present their commercial module names and find similarities and differences between these two suppliers' modules.     
+I will compare based on the user interface, matching similarities and differences. Between the implementation of [Axelor](https://erp.33co.de) and [OFBiz](https://demo-stable.ofbiz.apache.org/manufacturing/control/main).
 
 ## Side by Side
 ### BOM Bill Of Materials
@@ -33,5 +33,6 @@ This is a good example when a company decide to use or not use a module. I'm bee
 A [Computerized maintenance management system](https://www.ibm.com/topics/what-is-a-cmms) or CMMS has much more features that really attend the objective of a maintenance team. Maintain equipment in perfect working conditions. This explain the reasons behind to not chose all the module offered by a single ERP supplier and implement different solutions to specific use case.
 
 ---
+[back Assignment 3](03Module.md)
 
 [back HOME](https://code.33co.de/ehofmann/ERP-samk)
