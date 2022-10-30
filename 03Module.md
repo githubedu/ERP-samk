@@ -28,28 +28,23 @@ A product can be created in either of these modules **Manufacturing** module or 
 
 ![Require product info](assigments/img/03-errorMessage.png)
 
-There is no way we can achieve a minimalist implementation of an ERP system with a single module. When dealing with customers, a **Sales** module is mandatory, but in a situation the company has an stablished sales team. 
-<img src="assigments/img/03-moduleOverlap.png" align="right" width="400px"/>
-Adding a **CRM** module will benefit the data in the system and the sales team work. For these two separate modules the common information is the *Customers*, on each module there is some specific data, but the common information is shared between both modules. *Product* is another information item of an ERP that is used cross several modules. In the **Sales** module the most information is the cost price, yet on **Stock Management** the inventory and location is a key information. 
+There is no way we can achieve a minimalist implementation of an ERP system with a single module. When dealing with customers, a **Sales** module is mandatory, but in a situation the company has an established sales team. 
+<img src="assigments/img/03-moduleOverlap.png" align="right" width="350px"/>
+Adding a **CRM** module will benefit the data in the system and the sales team work. For these two separate modules the common information is the *Customers*, on each module there is some specific data, but the common information is shared between both modules. *Product* is another information item of an ERP that is used across several modules. In the **Sales** module the most important information is the cost price, yet on **Stock Management** the inventory and location are a key information. 
 
 ## Selection
-<img src="assigments/img/03-ModuleSelection.png" align="left" width="400px"/>
+<img src="assigments/img/03-ModuleSelection.png" align="left" width="350px"/>
 
-Thinking in an [SME](https://www.investopedia.com/terms/s/smallandmidsizeenterprises.asp) on which people work with machines to create products that are storaged in a warehouse and sold to customers, at least these modules are mandatory:
+Thinking in an [SME](https://www.investopedia.com/terms/s/smallandmidsizeenterprises.asp) on which people work with machines to create products that are stored in a warehouse and then sold to customers, at least these modules are mandatory:
 - Manufacturing
 - Stock Management
 - Sales
-- Purchase
+- Purchase    
 Not vital modules, but the use of these modules will allow the company become more organized, with process flows and standards procedures are:
 - CRM
 - HR
 - Invoicing
-- Accounting
+- Accounting     
 These selections are for a product oriented company, a service company would priorize more Sales and Stock Management. 
 This is the benefit of modules, a company can select the ones that fit the correct purpose of the business activity.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo molestie feugiat. Suspendisse hendrerit vehicula quam, eu mollis dolor rhoncus a. Proin eget ex at odio venenatis faucibus sit amet nec mi. Sed vitae lacinia mi. Maecenas tincidunt imperdiet metus a egestas. Ut eget feugiat arcu. Sed laoreet quis mi non fermentum. Integer nisi erat, mattis at justo non, porta pellentesque enim. Aenean gravida mauris id purus finibus vestibulum. Aenean dapibus tortor quam, vitae elementum purus facilisis sit amet.
-
-Donec scelerisque convallis tortor tristique egestas. Phasellus a elit eget ligula tempor aliquam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut nisl nunc, auctor vitae orci nec, maximus elementum dolor. Fusce ultricies nibh mauris, sit amet sollicitudin eros ultrices sit amet. Vivamus lobortis enim mauris, et hendrerit nibh aliquam id. Curabitur ante nunc, auctor at hendrerit quis, luctus sit amet purus. Suspendisse potenti. Duis commodo, nisi nec lacinia iaculis, quam nulla viverra quam, at pretium mi enim vel magna. Nullam vel turpis eget diam pellentesque euismod.
-
-Nulla mollis scelerisque urna a vehicula. Nulla luctus lacus massa, eget convallis sem aliquam et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent finibus sit amet neque vel consectetur. Aliquam erat volutpat. Mauris eu ex id enim venenatis fermentum sit amet id nisl. Etiam tincidunt elit non ante pellentesque eleifend. Integer et ornare risus, quis consequat metus. Fusce justo ex, maximus nec elementum nec, interdum in turpis.
