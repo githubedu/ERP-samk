@@ -27,9 +27,10 @@ Several occasions during the configuration of the **Manufacturing** module, it b
 A product can be created in either of these modules **Manufacturing** module or in the **Stock Management** module or even on **Sales** module. On each of these modules there are some additional info related to the product and the module in use. The image below show the message when a product was being created in the **Stock Management** module and the module is not configured.
 
 ![Require product info](assigments/img/03-errorMessage.png)
-<img src="assigments/img/03-moduleOverlap.png" align="right" width="400px"/>
 
-There is no way we can achieve a minimalist implementation of an ERP system with a single module. When dealing with customers, a **Sales** module is mandatory, but in a situation the company has an stablished sales team. Adding a **CRM** module will benefit the data in the system and the sales team work. For these two separate modules the common information is the *Customers*, on each module there is some specific data, but the common information is shared between both modules. *Product* is another information item of an ERP that is used cross several modules. In the **Sales** module the most information is the cost price, yet on **Stock Management** the inventory and location is a key information. 
+There is no way we can achieve a minimalist implementation of an ERP system with a single module. When dealing with customers, a **Sales** module is mandatory, but in a situation the company has an stablished sales team. 
+<img src="assigments/img/03-moduleOverlap.png" align="right" width="400px"/>
+Adding a **CRM** module will benefit the data in the system and the sales team work. For these two separate modules the common information is the *Customers*, on each module there is some specific data, but the common information is shared between both modules. *Product* is another information item of an ERP that is used cross several modules. In the **Sales** module the most information is the cost price, yet on **Stock Management** the inventory and location is a key information. 
 
 ## Selection
 <img src="assigments/img/03-ModuleSelection.png" align="left" width="400px"/>
