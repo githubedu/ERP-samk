@@ -9,6 +9,7 @@ More information on how to navigate through the platform, check this [video](vid
 - [Assignment 02: Process](02Process.md)
     * [Management Presentation](kartano/presentations/01presentation.md)
 - [Assignment 03: Modules & more](03Module.md)
+    * [Side by Side ERP comparison](03Comparison.md)
 
 ---
 

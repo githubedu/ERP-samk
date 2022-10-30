@@ -1,9 +1,11 @@
 # 03 Modules & more
 
-An ERP system from a single vendor can be the only system in use by a company or a part, a component, of the entire ERP solution of a company that use several vendors. Each ERP system is conceived as a group of modules, that interact with information flow between the modules ou exporting and importing data between different solutions.
+An ERP system from a single vendor can be the only system in use by a company or a part, a component, of the entire ERP solution of a company that use several vendors. Each ERP system is conceived as a group of modules, that interact with information flow between the modules or exporting and importing data between different solutions.
 
 ## Learning by doing
-In order to evaluate one module, for this exercise the **Manufactuing** module, the approach is to configure the module and identify the interaction with others modules as well the difficulties or pecularities during the task execution.
+In order to evaluate one module, for this exercise the **Manufacturing** module, the approach is to configure the module and identify the interaction with others modules as well the difficulties or peculiarities during the task execution.
+
+> A manufacturing module in an ERP system is responsible provide work orders to instruct machine operators which materials and machine to use, quantity of expected finished goods. The module is configured with information about the equipment on each workshop.
 
 ## Module Configuration
 Setting up a **Manufacturing** module require a keen eye on details, but sometimes not so detailed in order to avoid complications.    
@@ -48,3 +50,4 @@ Not vital modules, but the use of these modules will allow the company become mo
 These selections are for a product oriented company, a service company would priorize more Sales and Stock Management. 
 This is the benefit of modules, a company can select the ones that fit the correct purpose of the business activity.
 
+[back HOME](https://code.33co.de/ehofmann/ERP-samk)
