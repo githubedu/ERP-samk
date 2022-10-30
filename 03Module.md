@@ -50,4 +50,9 @@ Not vital modules, but the use of these modules will allow the company become mo
 These selections are for a product oriented company, a service company would priorize more Sales and Stock Management. 
 This is the benefit of modules, a company can select the ones that fit the correct purpose of the business activity.
 
+## Interconnection
+As described in more details in the [Machines](https://code.33co.de/ehofmann/ERP-samk/src/branch/master/03Comparison.md#machines) section on ERP comparison, a way to interconnect two different systems like an ERP with **Stock Management** and **Purchase** with a [CMMS](https://www.ibm.com/topics/what-is-a-cmms). Is for example a situation that the CMMS will consume the parts from the ERP inventory, when a preventive maintenance has been executed and the **Stock Management** module will trigger the purchase of replacement parts.
+
+
+
 [back HOME](https://code.33co.de/ehofmann/ERP-samk)
