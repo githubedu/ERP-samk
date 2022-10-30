@@ -2,10 +2,10 @@
 
 An ERP system from a single vendor can be the only system in use by a company or a part, a component, of the entire ERP solution of a company that use several vendors. Each ERP system is conceived as a group of modules, that interact with information flow between the modules ou exporting and importing data between different solutions.
 
-## Setting up
-It's quite common that I try to setup something, but is needed another setting from other part of the system.
+## Details
+In order to evaluate one module, for this exercise the **Manufactuing** module, the approach is to configure the module and identify the interaction with others modules as well the difficulties or pecularities during the task execution.
 
-### Module Configuration
+## Module Configuration
 Setting up a **Manufacturing** module require a keen eye on details, but sometimes not so detailed in order to avoid complications.    
 The sequence to setup the module on my testing [axelor ERP](https://erp.33co.de) instance is the following:
 1. Setup Country, City, Company information
@@ -16,6 +16,12 @@ The sequence to setup the module on my testing [axelor ERP](https://erp.33co.de)
 6. Machines. Here I added the machine that is producing according each manufacturing step. Each machine belong to a *Machine Type* group.
 7. Work Centers. Here machines are grouped in order to produce the product, also capacity and costing settings are defined. I will need to return to this settings after adding products to the system, as this information is necessary to define the process cost.
 
-### Creating orders
-Still some configurations are empty or not clear what is the requirements, by checking the [documentation](https://docs.axelor.com/abs/5.0/functional/manufacturing.html#introduction) I decide to follow the manual flow and configure the product.
+## Creating orders
+Still some configurations are empty or not clear what are the requirements, by checking the [documentation](https://docs.axelor.com/abs/5.0/functional/manufacturing.html#introduction) I decide to follow the manual flow and configure the product.
+
+## Integration
+Several occasions during the configuration of the **Manufacturing** module the system show messages requesting to setup another module in order to continue the configuration or even to use the manufacturing module to create a work order. 
+![Require product info](img/03-productempty.png)
+The example below ilustrate the message when I was trying to create a work order, then the system require a product to be created and during the product creation that can be on the **Manufacturing** module or in the **Stock Management** module, the system show a message requesting to configure the *Stock Management* module. 
+![Require product info](img/03-errorMessage.png)
 
