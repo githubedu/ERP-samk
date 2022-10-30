@@ -21,7 +21,7 @@ Still some configurations are empty or not clear what are the requirements, by c
 
 ## Integration
 Several occasions during the configuration of the **Manufacturing** module the system show messages requesting to setup another module in order to continue the configuration or even to use the manufacturing module to create a work order. 
-![Require product info](img/03-productempty.png)
+![Require product info](assigments/img/03-productempty.png)
 The example below ilustrate the message when I was trying to create a work order, then the system require a product to be created and during the product creation that can be on the **Manufacturing** module or in the **Stock Management** module, the system show a message requesting to configure the *Stock Management* module. 
-![Require product info](img/03-errorMessage.png)
+![Require product info](assigments/img/03-errorMessage.png)
 
